@@ -1,0 +1,42 @@
+.App {
+  padding: 50px;
+}
+
+.notActive {
+  color: white;
+}
+
+.navActive {
+  color: black;
+}
+
+.form {
+  background: gray;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form input, .form button {
+  padding: 20px;
+  border: none;
+  margin-right: 20px;
+}
+.form button {
+  background: aqua;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.item {
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+
+
